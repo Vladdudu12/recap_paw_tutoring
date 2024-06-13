@@ -1,0 +1,12 @@
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\bin\Debug\TutoringPAW_Tibrea_2022.exe.config
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\bin\Debug\TutoringPAW_Tibrea_2022.exe
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\bin\Debug\TutoringPAW_Tibrea_2022.pdb
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.csproj.AssemblyReference.cache
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.Form1.resources
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.Form2.resources
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.Properties.Resources.resources
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.csproj.GenerateResource.cache
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.exe
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.pdb
+C:\Users\Vivi\source\repos\TutoringPAW_Tibrea_2022\TutoringPAW_Tibrea_2022\obj\Debug\TutoringPAW_Tibrea_2022.Form3.resources
